@@ -1,0 +1,22 @@
+[
+    {
+        "question": "What does print(type(10)) output?",
+        "answer": "<class 'int'>"
+    },
+    {
+        "question": "Which operator returns the remainder of a division?",
+        "answer": "%"
+    },
+    {
+        "question": "How is a function defined in Python?",
+        "answer": "def"
+    },
+    {
+        "question": "What boolean value does 5 > 3 return?",
+        "answer": " True"
+    },
+    {
+        "question": "Which data structure is immutable in Python?",
+        "answer": "tuple"
+    }
+]
